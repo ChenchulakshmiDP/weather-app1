@@ -1,5 +1,8 @@
-# weather-app1
- Weather Forecast App 🌦️  
-**Tech Stack:** HTML5, CSS, JavaScript, OpenWeather API  
-- Built a real-time weather application that fetches live weather data.  
-- Implemented geolocation functionality and created a responsive UI.
+
+  #Weather Forecast App
+             HTML5, CSS, JavaScript, OpenWeather API                                                                    
+ 	-Developed a real-time weather application using HTML5, CSS, and JavaScript.
+  -Integrated OpenWeather API to fetch live weather data, including temperature, humidity, wind speed, and conditions.
+  -Implemented geolocation functionality to fetch weather data for the user’s current location.
+  -Designed a responsive and modern UI.Utilized JavaScript’s Fetch API for handling API requests efficiently.
+
